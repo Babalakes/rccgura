@@ -9,7 +9,8 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Fame - One Page Multipurpose Bootstrap Theme</title>
+    <link rel="icon" href="images/logos/rccg_ura_logo.png" type="image/png">
+    <title>RCCG Upper Room Assembly Kelowna BC</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="asset/css/bootstrap.min.css" rel="stylesheet">
@@ -85,14 +86,16 @@
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header page-scroll">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand page-scroll" href="#page-top">Fame</a>
-            </div>
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+    </button>
+    <a class="navbar-brand page-scroll" href="#page-top">
+        <img src="images/logos/rccg_ura_logo.png" alt="Logo" style="height: 90px;">
+    </a>
+</div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -101,21 +104,21 @@
                         <a href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#feature">Feature</a>
+                        <a class="page-scroll" href="#feature">Home</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#portfolio">Portfolio</a>
+                        <a class="page-scroll" href="#portfolio">Sermons</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#about-us">About</a>
+                        <a class="page-scroll" href="#about-us">About Us</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#service">Services</a>
+                        <a class="page-scroll" href="#service">Blogs</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#team">Team</a>
+                        <a class="page-scroll" href="#team">Services Times</a>
                     </li>
-                    <li>
+                    <!-- <li>
                         <a class="page-scroll" href="#pricing">Pricing</a>
                     </li>
                     <li>
@@ -126,7 +129,7 @@
                     </li>
                     <li>
                         <a class="page-scroll" href="#partner">Partner</a>
-                    </li>
+                    </li> -->
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
                     </li>
@@ -156,11 +159,11 @@
             <!-- Carousel inner -->
             <div class="carousel-inner">
                 <div class="item active">
-                    <img class="img-responsive" src="images/header-bg-1.jpg" alt="slider">
+                    <img class="img-responsive" src="images/church1.jpg" alt="slider">
                     <div class="slider-content">
                         <div class="col-md-12 text-center">
                             <h1 class="animated3">
-                                <span><strong>Fame</strong> for the highest</span>
+                            <span style="line-height: 1; font-size: 55px;">Welcome to <strong>RCCG UPPER ROOM ASSEMBLY</strong><br/>Kelowna, BC.</span>
                             </h1>
                             <p class="animated2">At vero eos et accusamus et iusto odio dignissimos<br> ducimus qui blanditiis praesentium voluptatum</p>	
                             <a href="#feature" class="page-scroll btn btn-primary animated1">Read More</a>
@@ -175,7 +178,7 @@
                     <div class="slider-content">
                         <div class="col-md-12 text-center">
                             <h1 class="animated1">
-                    		  <span>Welcome to <strong>Fame</strong></span>
+                            <span><strong>Fame</strong> for the highest</span>
                     	    </h1>
                             <p class="animated2">Generate a flood of new business with the<br> power of a digital media platform</p>
                             <a href="#feature" class="page-scroll btn btn-primary animated3">Read More</a>
@@ -184,7 +187,7 @@
                 </div>
                 <!--/ Carousel item end -->
                 
-                <div class="item">
+            <!--    <div class="item">
                     <img class="img-responsive" src="images//galaxy.jpg" alt="slider">
                     <div class="slider-content">
                         <div class="col-md-12 text-center">
@@ -196,7 +199,7 @@
                                 
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!--/ Carousel item end -->
             </div>
             <!-- Carousel inner end-->

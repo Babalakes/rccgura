@@ -159,7 +159,7 @@
             <!-- Carousel inner -->
             <div class="carousel-inner">
                 <div class="item active">
-                    <img class="img-responsive" src="images/church1.jpg" alt="slider">
+                    <img class="img-responsive" src="images/church2.jpg" alt="slider">
                     <div class="slider-content">
                         <div class="col-md-12 text-center">
                             <h1 class="animated3">
